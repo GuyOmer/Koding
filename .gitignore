@@ -1,0 +1,12 @@
+#Custom
+pyhton/includes/python/id*
+python/includes/python/*.txt
+python/includes/python/ajax.py
+python/includes/constants.php
+
+pset7/includes/constants.php
+
+sqli/includes/constants.php
+
+sftp-config.json
+CodeDump/

